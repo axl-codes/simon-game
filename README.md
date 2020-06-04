@@ -17,7 +17,7 @@ Exercise done with a Udemy course (web developer bootcamp) in order to practice 
 
 ## Screenshot 
 
-![landingpage](assets/capture.png design by Angela (Udemy))
+![landingpage](assets/capture.png "design by Angela (Udemy)")
 
 ## Versions
 
